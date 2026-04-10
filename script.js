@@ -14,5 +14,5 @@ const cvBtn = document.querySelector(".cvBtn");
 
 cvBtn.onclick = () =>
 {
-    window.open("document/DeepakDewasiCV.pdf","_blank");
+    window.open("document/DeepakDewasi.pdf","_blank");
 }
